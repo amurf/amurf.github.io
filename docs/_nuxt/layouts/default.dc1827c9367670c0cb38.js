@@ -1,2 +1,0 @@
-webpackJsonp([2],{Ma2J:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var u=t("uOzz"),r=t("VU/8"),l=r(null,u.a,null,null,null);n.default=l.exports},uOzz:function(e,n,t){"use strict";var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("h1",[e._v("amurf.me")]),t("nuxt")],1)},r=[],l={render:u,staticRenderFns:r};n.a=l}});
-//# sourceMappingURL=default.dc1827c9367670c0cb38.js.map

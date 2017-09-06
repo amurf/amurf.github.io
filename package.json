@@ -4,6 +4,6 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate --spa"
   }
 }

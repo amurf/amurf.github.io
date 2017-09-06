@@ -1,7 +1,7 @@
 version: "2"
 
 services:
-    builder:
+    site:
         build: .
         image: amurf.me
         command: npm run dev

@@ -6,3 +6,5 @@ ADD package.json /amurf.me
 RUN npm install --save nuxt @nuxtjs/bootstrap-vue
 
 ADD nuxt.config.js /amurf.me
+ADD tools /amurf.me/tools
+ENV PATH /amurf.me/tools:$PATH

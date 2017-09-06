@@ -1,2 +1,0 @@
-webpackJsonp([1],{"/B7/":function(e,t,n){"use strict";var r=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[n("nuxt-link",{attrs:{to:"/"}},[e._v("Back")])],1)},l=[],u={render:r,staticRenderFns:l};t.a=u},paXg:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n("/B7/"),l=n("VU/8"),u=l(null,r.a,null,null,null);t.default=u.exports}});
-//# sourceMappingURL=index.3f5df9702b1e73cb2412.js.map

@@ -1,4 +1,8 @@
 module.exports = {
+    mode: 'spa',
+    build: {
+        publicPath: 'nuxt',
+    },
     modules: [
         '@nuxtjs/bootstrap-vue',
     ],

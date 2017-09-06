@@ -9,5 +9,5 @@ This will hot-reload as you do changes.
 
 ## Build for production
 
-* ```docker-compose run sites npm run generate```
+* ```docker-compose run site npm run generate.sh```
 * Commit docs/ directory to github

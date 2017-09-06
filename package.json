@@ -1,5 +1,6 @@
 {
-  "name": "my-app",
+  "name": "amurf.me",
+  "version": "0.0.1",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",

@@ -1,0 +1,16 @@
+version: "2"
+
+services:
+    builder:
+        build: .
+        image: amurf.me
+        command: npm run dev
+        environment:
+            PORT: 3456
+            HOST: 0.0.0.0
+        ports:
+            - 3456:3456
+        volumes:
+            - ./pages:/amurf.me/pages
+            - ./layouts:/amurf.me/layouts
+            - ./static:/amurf.me/static

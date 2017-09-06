@@ -2,10 +2,10 @@
 	<div class="topnav">
 		<h3>amurf.me</h3>
 		<b-nav>
-            <b-nav-item to="/">home</b-nav-item>
+            <b-nav-item to="/" class='white'>home</b-nav-item>
 			<b-nav-item href="#">github</b-nav-item>
-            <b-nav-item to="/" class='active'>me</b-nav-item>
-            <b-nav-item>email</b-nav-item>
+            <b-nav-item to="/me" class='white'>me</b-nav-item>
+            <b-nav-item href="#">email</b-nav-item>
 		</b-nav>
 	</div>
 </template>
@@ -33,7 +33,7 @@ export default {
 	margin-left: 1rem;
 }
 
-.nav .active {
+.nav .active, .nav .white .nav-link {
 	color: #fff;
 	border-bottom-color: #fff;
 }

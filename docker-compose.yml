@@ -14,3 +14,4 @@ services:
             - ./pages:/amurf.me/pages
             - ./layouts:/amurf.me/layouts
             - ./static:/amurf.me/static
+            - ./docs:/amurf.me/docs

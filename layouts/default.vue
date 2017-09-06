@@ -1,10 +1,15 @@
 <template>
     <div>
-        <h1>amurf.me</h1>
+        <navbar />
         <nuxt/>
     </div>
 </template>
-
+<script>
+import Navbar from '~/components/Navbar';
+export default {
+    components: { Navbar },
+}
+</script>
 <style>
 html, body {
     background-color: #333;

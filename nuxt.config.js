@@ -4,7 +4,7 @@ module.exports = {
         '@nuxtjs/bootstrap-vue',
     ],
     generate: {
-        dir: 'docs-dist',
+        dir: 'tmp-dist',
     },
     head: {
         link: [

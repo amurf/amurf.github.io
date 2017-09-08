@@ -15,4 +15,4 @@ services:
             - ./layouts:/amurf.me/layouts
             - ./static:/amurf.me/static
             - ./components:/amurf.me/components
-            - ./docs:/amurf.me/docs
+            - ./dist:/amurf.me/dist

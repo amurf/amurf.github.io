@@ -5,7 +5,7 @@
 			<p>Developer</p>
 			<b-nav>
 				<b-nav-item href="mailto:irashp@gmail.com" class='white'>email</b-nav-item>
-				<b-nav-item to="https://github.com/amurf">github</b-nav-item>
+				<b-nav-item href="https://github.com/amurf">github</b-nav-item>
 				<b-nav-item to="/me" class='white'>me</b-nav-item>
 				<b-nav-item href="#">resume</b-nav-item>
 			</b-nav>

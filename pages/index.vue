@@ -1,23 +1,23 @@
 <template>
-    <div class="content">
+  <div class="content">
     <b-card>
-        Something something...
+      Something something...
     </b-card>
-    </div>
+  </div>
 </template>
 <style>
 .card-body, .container, .card {
-    background-color: #333;
+  background-color: #333;
 }
 
 .content {
-    display: flex;
-    margin-top: 5em;
-    justify-content: center;
+  display: flex;
+  margin-top: 5em;
+  justify-content: center;
 }
 
 .card {
-    border: .25rem solid transparent;
-    border-color: rgba(255,255,255,.25);
+  border: .25rem solid transparent;
+  border-color: rgba(255,255,255,.25);
 }
 </style>

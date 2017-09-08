@@ -2,8 +2,8 @@
   "name": "amurf.me",
   "version": "0.0.1",
   "scripts": {
-    "dev": "nuxt --spa",
+    "dev": "nuxt",
     "build": "nuxt build",
-    "generate": "nuxt generate --spa"
+    "generate": "nuxt generate"
   }
 }
